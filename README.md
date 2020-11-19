@@ -1,6 +1,6 @@
 # ninja-smoothies
 
-> A Vue.js project
+> A Vue.js project. The web application allows the user to create the dashboard of smoothies recipes. Firebase database was used in this project.
 
 ## Build Setup
 
